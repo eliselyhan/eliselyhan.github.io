@@ -1,5 +1,7 @@
 ### 👋
 
+Hello! I'm Elise, a sophomore at Columbia Engineering studying Operations Research and Computer Science. I am passionate about machine learning, data science and algorithms. 
+
 <!--
 **eliselyhan/eliselyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
